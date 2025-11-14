@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Brand,Product_Type,Main_Ingredient,Price(₹),Rating,City,Avg_Temperature(°C),Humidity(%),Climate,Skin_Type,Skin_Concern,Review_Count,Packaging_Type,Gender_Target
+P001,Vitamin C Night Cream,L’Oréal,Night Cream,Vitamin C,1025,4.3,Delhi,28,49,Moderate,Dry,Sun Damage,255,Tube,Women
+P002,Aloe Vera Sunscreen,Dot & Key,Sunscreen,Aloe Vera,1040,3.6,Bengaluru,30,31,Dry,Dry,Sensitivity,191,Jar,Men
+P003,Niacinamide Face Wash,Ponds,Face Wash,Niacinamide,465,3.9,Pune,29,80,Humid,Sensitive,Sun Damage,262,Bottle,Unisex
+P004,Centella Asiatica Moisturizer,Cetaphil,Moisturizer,Centella Asiatica,625,4.5,Ahmedabad,31,65,Moderate,Sensitive,Sun Damage,339,Pump,Men
+P005,Green Tea Lotion,The Ordinary,Lotion,Green Tea,1232,4.7,Bengaluru,30,39,Dry,Combination,Dryness,117,Jar,All
+P006,Vitamin E Serum,Simple,Serum,Vitamin E,473,3.6,Pune,35,34,Dry,Dry,Sun Damage,497,Bottle,All
+P007,Shea Butter Lotion,The Face Shop,Lotion,Shea Butter,983,3.8,Ahmedabad,25,65,Moderate,Combination,Dryness,161,Tube,Unisex
+P008,Vitamin E Face Wash,Body Shop,Face Wash,Vitamin E,1084,3.7,Kochi,28,53,Moderate,Normal,Dryness,305,Jar,Men
+P009,Vitamin E Gel,Body Shop,Gel,Vitamin E,644,4.0,Chennai,29,59,Moderate,All,Acne,201,Tube,All
+P010,Vitamin C Lotion,Cetaphil,Lotion,Vitamin C,1193,3.6,Kochi,31,67,Moderate,All,Sun Damage,286,Bottle,All
+P011,Shea Butter Serum,Cetaphil,Serum,Shea Butter,1025,4.7,Kochi,28,57,Moderate,All,Acne,142,Jar,All
+P012,Vitamin E Sunscreen,L’Oréal,Sunscreen,Vitamin E,700,4.7,Ahmedabad,25,60,Moderate,Oily,Dryness,305,Tube,Women
+P013,Green Tea Moisturizer,Simple,Moisturizer,Green Tea,557,4.6,Bengaluru,31,71,Humid,All,Sensitivity,223,Pump,Men
+P014,Vitamin C Gel,Mamaearth,Gel,Vitamin C,629,4.8,Jaipur,31,81,Humid,All,Acne,271,Dropper,Unisex
+P015,Tea Tree Oil Face Wash,Minimalist,Face Wash,Tea Tree Oil,1499,4.6,Mumbai,35,62,Moderate,Normal,Sensitivity,381,Pump,Women
+P016,Hyaluronic Acid Cleanser,Wow Skin Science,Cleanser,Hyaluronic Acid,342,3.7,Mumbai,35,53,Moderate,Sensitive,Sensitivity,289,Pump,Unisex
+P017,Tea Tree Oil Toner,The Face Shop,Toner,Tea Tree Oil,1364,3.9,Kolkata,31,54,Moderate,All,Sun Damage,195,Pump,All
+P018,Vitamin E Moisturizer,Neutrogena,Moisturizer,Vitamin E,637,3.7,Delhi,28,56,Moderate,Sensitive,Sensitivity,488,Dropper,All
+P019,Aloe Vera Cream,The Ordinary,Cream,Aloe Vera,349,4.1,Mumbai,28,70,Moderate,Oily,Acne,238,Jar,Women
+P020,Aloe Vera Cream,Plum,Cream,Aloe Vera,1164,4.2,Mumbai,32,72,Humid,All,Acne,449,Tube,All
+P021,Glycerin Cleanser,Dot & Key,Cleanser,Glycerin,275,4.7,Bengaluru,25,84,Humid,Combination,Sensitivity,200,Dropper,Men
+P022,Shea Butter Toner,Ponds,Toner,Shea Butter,1084,4.2,Bengaluru,25,38,Dry,Normal,Sun Damage,374,Jar,Men
+P023,Niacinamide Cleanser,The Ordinary,Cleanser,Niacinamide,327,4.4,Ahmedabad,27,50,Moderate,All,Pigmentation,456,Dropper,Women
+P024,Retinol Moisturizer,Wow Skin Science,Moisturizer,Retinol,1454,4.6,Hyderabad,25,60,Moderate,Combination,Sun Damage,240,Dropper,Men
+P025,Niacinamide Cream,Mamaearth,Cream,Niacinamide,276,4.6,Mumbai,32,68,Moderate,Sensitive,Dryness,448,Bottle,All
+P026,Vitamin C Sunscreen,Cosrx,Sunscreen,Vitamin C,329,3.5,Kochi,29,36,Dry,All,Aging,101,Pump,All
+P027,AHA/BHA Night Cream,Mamaearth,Night Cream,AHA/BHA,1009,4.6,Ahmedabad,35,68,Moderate,Dry,Sun Damage,337,Jar,Men
+P028,Retinol Face Wash,Neutrogena,Face Wash,Retinol,1478,3.5,Pune,25,66,Moderate,All,Acne,139,Jar,Unisex
+P029,Shea Butter Toner,Minimalist,Toner,Shea Butter,356,3.8,Chennai,29,59,Moderate,Normal,Sensitivity,179,Bottle,Unisex
+P030,Aloe Vera Serum,Cosrx,Serum,Aloe Vera,1298,4.0,Bengaluru,26,42,Moderate,All,Sensitivity,312,Jar,Unisex
+P031,Retinol Gel,Mamaearth,Gel,Retinol,1435,4.7,Bengaluru,27,46,Moderate,Normal,Sun Damage,404,Tube,Unisex
+P032,Hyaluronic Acid Lotion,Neutrogena,Lotion,Hyaluronic Acid,899,4.8,Mumbai,28,47,Moderate,Oily,Aging,450,Jar,All
+P033,Tea Tree Oil Cleanser,L’Oréal,Cleanser,Tea Tree Oil,662,3.6,Chennai,28,35,Dry,Oily,Pigmentation,351,Pump,Women
+P034,AHA/BHA Toner,L’Oréal,Toner,AHA/BHA,688,4.0,Hyderabad,34,75,Humid,Normal,Sun Damage,407,Pump,Women
+P035,Tea Tree Oil Cleanser,Ponds,Cleanser,Tea Tree Oil,1241,4.7,Pune,29,31,Dry,Sensitive,Acne,349,Jar,All
+P036,Green Tea Cleanser,Minimalist,Cleanser,Green Tea,1314,3.7,Mumbai,32,51,Moderate,Combination,Sun Damage,381,Pump,Unisex
+P037,Green Tea Face Wash,Mamaearth,Face Wash,Green Tea,285,4.3,Kochi,29,46,Moderate,Normal,Pigmentation,478,Bottle,Women
+P038,Aloe Vera Serum,Body Shop,Serum,Aloe Vera,494,4.0,Jaipur,33,85,Humid,Dry,Sensitivity,127,Pump,Men
+P039,Vitamin C Cleanser,Neutrogena,Cleanser,Vitamin C,452,3.7,Delhi,32,43,Moderate,Sensitive,Dryness,336,Bottle,Unisex
+P040,Shea Butter Face Wash,Cosrx,Face Wash,Shea Butter,415,3.5,Jaipur,35,65,Moderate,Dry,Dryness,353,Pump,Men
+P041,Glycerin Face Wash,Minimalist,Face Wash,Glycerin,1464,3.5,Kochi,30,61,Moderate,Oily,Sensitivity,163,Pump,Unisex
+P042,Hyaluronic Acid Moisturizer,L’Oréal,Moisturizer,Hyaluronic Acid,672,3.9,Bengaluru,26,78,Humid,Combination,Dryness,253,Dropper,All
+P043,Vitamin C Cream,Neutrogena,Cream,Vitamin C,576,4.2,Chennai,28,35,Dry,Sensitive,Sensitivity,310,Jar,Men
+P044,AHA/BHA Gel,L’Oréal,Gel,AHA/BHA,804,4.7,Hyderabad,25,69,Moderate,Sensitive,Acne,219,Jar,All
+P045,Zinc Oxide Cream,The Ordinary,Cream,Zinc Oxide,757,4.2,Chennai,33,53,Moderate,Normal,Pigmentation,472,Pump,All
+P046,Vitamin C Serum,Simple,Serum,Vitamin C,270,4.5,Jaipur,27,63,Moderate,Oily,Sensitivity,422,Dropper,Unisex
+P047,Zinc Oxide Moisturizer,Mamaearth,Moisturizer,Zinc Oxide,1349,3.9,Kolkata,35,51,Moderate,Dry,Sensitivity,426,Pump,All
+P048,Aloe Vera Serum,Cosrx,Serum,Aloe Vera,1171,4.7,Jaipur,32,73,Humid,Normal,Acne,246,Jar,Women
+P049,Shea Butter Face Wash,Derma Co,Face Wash,Shea Butter,786,3.8,Delhi,26,80,Humid,Sensitive,Sun Damage,359,Bottle,All
+P050,Vitamin E Cream,Derma Co,Cream,Vitamin E,382,3.6,Jaipur,25,58,Moderate,All,Pigmentation,445,Bottle,All
+P051,AHA/BHA Cream,Neutrogena,Cream,AHA/BHA,595,4.1,Kolkata,29,44,Moderate,Combination,Sensitivity,418,Bottle,Unisex
+P052,Hyaluronic Acid Face Wash,Cetaphil,Face Wash,Hyaluronic Acid,832,3.7,Mumbai,25,85,Humid,Sensitive,Sun Damage,103,Dropper,All
+P053,Vitamin E Cleanser,Mamaearth,Cleanser,Vitamin E,1423,4.4,Kochi,27,85,Humid,Combination,Dryness,382,Bottle,Unisex
+P054,Vitamin E Cleanser,L’Oréal,Cleanser,Vitamin E,550,4.4,Hyderabad,28,69,Moderate,Oily,Aging,121,Jar,Unisex
+P055,Green Tea Face Wash,Plum,Face Wash,Green Tea,1171,4.7,Pune,31,46,Moderate,Oily,Acne,491,Pump,Women
+P056,Vitamin C Face Wash,Derma Co,Face Wash,Vitamin C,510,4.0,Hyderabad,25,77,Humid,Combination,Dryness,293,Jar,Unisex
+P057,Retinol Cleanser,Derma Co,Cleanser,Retinol,443,3.9,Chennai,32,36,Dry,Dry,Dryness,384,Tube,All
+P058,Aloe Vera Cream,Mamaearth,Cream,Aloe Vera,1488,4.2,Kolkata,25,73,Humid,Oily,Acne,280,Dropper,Men
+P059,Hyaluronic Acid Cream,Derma Co,Cream,Hyaluronic Acid,1436,4.5,Hyderabad,34,75,Humid,Sensitive,Pigmentation,316,Bottle,All
+P060,Glycerin Night Cream,Cosrx,Night Cream,Glycerin,861,3.6,Mumbai,28,64,Moderate,Oily,Sun Damage,156,Tube,All
+P061,Centella Asiatica Face Wash,Plum,Face Wash,Centella Asiatica,1486,4.7,Chennai,25,68,Moderate,Oily,Aging,392,Bottle,Women
+P062,Niacinamide Toner,Cosrx,Toner,Niacinamide,423,4.0,Ahmedabad,31,65,Moderate,All,Sensitivity,145,Pump,Unisex
+P063,Centella Asiatica Cream,The Ordinary,Cream,Centella Asiatica,1082,4.8,Jaipur,31,81,Humid,Sensitive,Acne,378,Pump,All
+P064,Niacinamide Lotion,Body Shop,Lotion,Niacinamide,263,3.7,Kolkata,29,74,Humid,Dry,Aging,108,Bottle,Men
+P065,Green Tea Cream,Cosrx,Cream,Green Tea,826,3.8,Chennai,29,38,Dry,All,Acne,126,Pump,Men
+P066,Vitamin C Face Wash,Cosrx,Face Wash,Vitamin C,376,3.7,Ahmedabad,34,71,Humid,Dry,Sun Damage,325,Pump,Unisex
+P067,AHA/BHA Serum,Wow Skin Science,Serum,AHA/BHA,757,4.7,Jaipur,27,45,Moderate,Dry,Pigmentation,120,Bottle,Men
+P068,Zinc Oxide Night Cream,The Ordinary,Night Cream,Zinc Oxide,494,3.6,Delhi,28,34,Dry,Normal,Aging,492,Pump,All
+P069,Centella Asiatica Cream,The Face Shop,Cream,Centella Asiatica,314,4.3,Jaipur,34,43,Moderate,Combination,Acne,165,Tube,Unisex
+P070,Centella Asiatica Cleanser,Plum,Cleanser,Centella Asiatica,1111,3.7,Chennai,25,39,Dry,Sensitive,Sensitivity,273,Jar,Women
+P071,Tea Tree Oil Serum,Simple,Serum,Tea Tree Oil,891,4.8,Hyderabad,25,64,Moderate,Normal,Sensitivity,417,Tube,Women
+P072,Tea Tree Oil Serum,L’Oréal,Serum,Tea Tree Oil,511,4.8,Pune,32,73,Humid,Oily,Aging,420,Tube,All
+P073,Niacinamide Cleanser,Wow Skin Science,Cleanser,Niacinamide,1335,3.9,Jaipur,32,38,Dry,Normal,Sun Damage,306,Dropper,Women
+P074,Centella Asiatica Gel,The Face Shop,Gel,Centella Asiatica,1136,4.3,Hyderabad,25,36,Dry,Normal,Aging,465,Tube,All
+P075,Shea Butter Toner,Wow Skin Science,Toner,Shea Butter,840,4.4,Mumbai,31,56,Moderate,Sensitive,Sensitivity,186,Pump,Unisex
+P076,Tea Tree Oil Sunscreen,Neutrogena,Sunscreen,Tea Tree Oil,686,3.7,Pune,26,58,Moderate,Normal,Dryness,452,Dropper,Women
+P077,Hyaluronic Acid Serum,Cosrx,Serum,Hyaluronic Acid,253,4.2,Ahmedabad,31,43,Moderate,Combination,Sensitivity,325,Bottle,Unisex
+P078,Centella Asiatica Cream,Dot & Key,Cream,Centella Asiatica,1440,4.4,Pune,26,84,Humid,Sensitive,Acne,244,Pump,Men
+P079,Glycerin Face Wash,Minimalist,Face Wash,Glycerin,618,3.8,Jaipur,29,43,Moderate,Normal,Sun Damage,376,Dropper,Women
+P080,Vitamin E Cleanser,Minimalist,Cleanser,Vitamin E,1308,3.7,Hyderabad,25,42,Moderate,Normal,Acne,122,Jar,Men
+P081,Niacinamide Cream,Simple,Cream,Niacinamide,254,3.6,Delhi,30,31,Dry,Dry,Dryness,204,Tube,Women
+P082,Centella Asiatica Night Cream,Dot & Key,Night Cream,Centella Asiatica,1286,3.8,Hyderabad,28,55,Moderate,Sensitive,Sensitivity,381,Bottle,All
+P083,AHA/BHA Moisturizer,Dot & Key,Moisturizer,AHA/BHA,347,3.6,Pune,29,83,Humid,Sensitive,Pigmentation,397,Jar,Unisex
+P084,Zinc Oxide Night Cream,Dot & Key,Night Cream,Zinc Oxide,1186,3.6,Kochi,28,36,Dry,Dry,Acne,278,Jar,Unisex
+P085,Green Tea Serum,Cetaphil,Serum,Green Tea,651,4.2,Pune,29,49,Moderate,Combination,Dryness,251,Dropper,Unisex
+P086,Vitamin C Moisturizer,Derma Co,Moisturizer,Vitamin C,1230,4.0,Kochi,27,41,Moderate,Normal,Sensitivity,291,Bottle,Women
+P087,Shea Butter Toner,Wow Skin Science,Toner,Shea Butter,1448,4.2,Hyderabad,25,64,Moderate,Normal,Acne,452,Tube,All
+P088,AHA/BHA Sunscreen,Cetaphil,Sunscreen,AHA/BHA,1256,4.7,Kolkata,28,48,Moderate,All,Pigmentation,122,Jar,Women
+P089,Shea Butter Toner,L’Oréal,Toner,Shea Butter,587,4.3,Jaipur,31,69,Moderate,Normal,Sensitivity,217,Dropper,Men
+P090,Retinol Cream,Derma Co,Cream,Retinol,568,4.2,Hyderabad,35,55,Moderate,Normal,Sun Damage,396,Jar,Men
+P091,Hyaluronic Acid Gel,Ponds,Gel,Hyaluronic Acid,1076,3.7,Ahmedabad,27,53,Moderate,Sensitive,Acne,199,Jar,All
+P092,Green Tea Cleanser,The Face Shop,Cleanser,Green Tea,919,4.1,Pune,30,40,Moderate,Sensitive,Aging,357,Tube,Unisex
+P093,Tea Tree Oil Serum,Wow Skin Science,Serum,Tea Tree Oil,1446,4.8,Delhi,30,61,Moderate,Dry,Sun Damage,270,Bottle,All
+P094,Vitamin E Sunscreen,Mamaearth,Sunscreen,Vitamin E,543,4.7,Delhi,26,67,Moderate,Dry,Acne,132,Pump,Unisex
+P095,Shea Butter Serum,Body Shop,Serum,Shea Butter,445,4.1,Jaipur,33,78,Humid,Combination,Acne,439,Bottle,All
+P096,Shea Butter Sunscreen,L’Oréal,Sunscreen,Shea Butter,1161,4.3,Kochi,29,85,Humid,All,Aging,266,Pump,Men
+P097,Vitamin C Moisturizer,Neutrogena,Moisturizer,Vitamin C,844,4.4,Kolkata,25,84,Humid,Sensitive,Aging,139,Pump,Women
+P098,AHA/BHA Moisturizer,Ponds,Moisturizer,AHA/BHA,1382,4.5,Delhi,25,70,Moderate,Oily,Acne,349,Pump,Unisex
+P099,Aloe Vera Serum,Body Shop,Serum,Aloe Vera,326,3.5,Hyderabad,32,52,Moderate,Oily,Aging,383,Tube,Unisex
+P100,Niacinamide Gel,Wow Skin Science,Gel,Niacinamide,914,4.1,Delhi,31,43,Moderate,Combination,Acne,379,Jar,Men
+P101,Tea Tree Oil Lotion,Minimalist,Lotion,Tea Tree Oil,1122,3.9,Jaipur,32,58,Moderate,Sensitive,Sun Damage,192,Dropper,Women
+P102,Centella Asiatica Gel,Body Shop,Gel,Centella Asiatica,358,3.7,Pune,30,70,Moderate,All,Dryness,135,Jar,Unisex
+P103,Niacinamide Sunscreen,Minimalist,Sunscreen,Niacinamide,606,4.7,Kolkata,28,58,Moderate,Combination,Aging,260,Pump,Unisex
+P104,Niacinamide Lotion,The Ordinary,Lotion,Niacinamide,391,4.2,Kolkata,31,77,Humid,Dry,Sensitivity,382,Dropper,Men
+P105,Niacinamide Sunscreen,Cosrx,Sunscreen,Niacinamide,367,4.3,Pune,34,58,Moderate,Oily,Pigmentation,443,Dropper,Unisex
+P106,Zinc Oxide Cream,The Face Shop,Cream,Zinc Oxide,941,4.6,Bengaluru,32,64,Moderate,Dry,Sensitivity,455,Bottle,Women
+P107,Zinc Oxide Serum,Body Shop,Serum,Zinc Oxide,796,4.2,Kolkata,29,33,Dry,Oily,Acne,492,Pump,All
+P108,Vitamin E Moisturizer,Dot & Key,Moisturizer,Vitamin E,449,4.7,Kolkata,27,58,Moderate,Sensitive,Aging,201,Bottle,Men
+P109,AHA/BHA Cream,Mamaearth,Cream,AHA/BHA,552,4.7,Kolkata,32,30,Dry,Sensitive,Dryness,318,Tube,All
+P110,Niacinamide Gel,Wow Skin Science,Gel,Niacinamide,1179,3.7,Kochi,33,43,Moderate,Dry,Dryness,483,Bottle,Unisex
+P111,Shea Butter Moisturizer,Ponds,Moisturizer,Shea Butter,1045,4.7,Mumbai,27,60,Moderate,All,Sensitivity,324,Bottle,Men
+P112,Green Tea Cleanser,Mamaearth,Cleanser,Green Tea,1417,3.7,Chennai,27,74,Humid,Oily,Sensitivity,287,Jar,Men
+P113,Green Tea Sunscreen,The Ordinary,Sunscreen,Green Tea,1332,4.2,Mumbai,31,61,Moderate,Dry,Sun Damage,408,Bottle,All
+P114,Niacinamide Toner,Dot & Key,Toner,Niacinamide,318,4.0,Delhi,34,66,Moderate,Combination,Aging,423,Bottle,Men
+P115,Hyaluronic Acid Cream,Body Shop,Cream,Hyaluronic Acid,1056,4.2,Delhi,29,40,Moderate,Sensitive,Sensitivity,209,Pump,Unisex
+P116,AHA/BHA Toner,Simple,Toner,AHA/BHA,302,3.7,Kolkata,33,76,Humid,Combination,Sun Damage,388,Pump,Unisex
+P117,AHA/BHA Cleanser,The Face Shop,Cleanser,AHA/BHA,1465,4.3,Kochi,32,80,Humid,Combination,Aging,460,Pump,All
+P118,Hyaluronic Acid Toner,Minimalist,Toner,Hyaluronic Acid,540,3.5,Bengaluru,28,83,Humid,Dry,Dryness,491,Bottle,Men
+P119,Centella Asiatica Toner,Ponds,Toner,Centella Asiatica,716,4.3,Mumbai,30,66,Moderate,All,Pigmentation,255,Bottle,Women
+P120,Niacinamide Gel,Body Shop,Gel,Niacinamide,374,4.6,Chennai,33,75,Humid,Dry,Dryness,224,Dropper,Unisex
+P121,Vitamin C Moisturizer,Plum,Moisturizer,Vitamin C,693,4.3,Mumbai,30,44,Moderate,Combination,Aging,330,Pump,All
+P122,Niacinamide Cleanser,Dot & Key,Cleanser,Niacinamide,1277,4.3,Pune,35,84,Humid,Sensitive,Pigmentation,459,Tube,Men
+P123,Glycerin Cream,Minimalist,Cream,Glycerin,603,4.8,Ahmedabad,28,39,Dry,Oily,Pigmentation,187,Pump,Men
+P124,Hyaluronic Acid Night Cream,The Face Shop,Night Cream,Hyaluronic Acid,1274,4.0,Chennai,27,71,Humid,Sensitive,Sensitivity,111,Bottle,Men
+P125,Hyaluronic Acid Night Cream,The Ordinary,Night Cream,Hyaluronic Acid,599,3.7,Chennai,26,61,Moderate,Oily,Aging,427,Jar,Men
+P126,Zinc Oxide Serum,Cosrx,Serum,Zinc Oxide,895,4.0,Mumbai,31,58,Moderate,All,Aging,127,Pump,Women
+P127,Tea Tree Oil Cream,The Face Shop,Cream,Tea Tree Oil,1289,4.1,Jaipur,34,69,Moderate,Combination,Sensitivity,416,Bottle,All
+P128,Zinc Oxide Gel,The Face Shop,Gel,Zinc Oxide,402,4.4,Pune,28,78,Humid,Normal,Sun Damage,419,Jar,Unisex
+P129,Zinc Oxide Serum,Ponds,Serum,Zinc Oxide,362,3.6,Jaipur,33,58,Moderate,Sensitive,Sensitivity,343,Pump,Men
+P130,Tea Tree Oil Serum,Wow Skin Science,Serum,Tea Tree Oil,1186,4.3,Chennai,31,77,Humid,Combination,Aging,129,Pump,Unisex
+P131,Hyaluronic Acid Night Cream,Neutrogena,Night Cream,Hyaluronic Acid,1445,4.0,Kolkata,25,34,Dry,Oily,Sun Damage,275,Pump,Unisex
+P132,Centella Asiatica Cream,Ponds,Cream,Centella Asiatica,952,4.3,Bengaluru,26,63,Moderate,Normal,Pigmentation,179,Dropper,Men
+P133,Retinol Toner,Minimalist,Toner,Retinol,676,4.1,Chennai,35,68,Moderate,Normal,Sun Damage,495,Jar,Women
+P134,Niacinamide Cream,Simple,Cream,Niacinamide,958,4.4,Ahmedabad,29,72,Humid,Normal,Sun Damage,495,Bottle,Unisex
+P135,Glycerin Sunscreen,Wow Skin Science,Sunscreen,Glycerin,1153,4.3,Pune,30,71,Humid,Normal,Sensitivity,412,Jar,All
+P136,Centella Asiatica Lotion,The Ordinary,Lotion,Centella Asiatica,835,3.9,Bengaluru,28,31,Dry,Normal,Acne,163,Tube,All
+P137,Shea Butter Toner,Cosrx,Toner,Shea Butter,1136,3.9,Hyderabad,33,39,Dry,All,Sensitivity,205,Pump,Women
+P138,Zinc Oxide Toner,Dot & Key,Toner,Zinc Oxide,1328,4.4,Ahmedabad,35,60,Moderate,Oily,Pigmentation,388,Jar,All
+P139,Vitamin C Night Cream,Derma Co,Night Cream,Vitamin C,610,4.5,Kochi,32,56,Moderate,Sensitive,Acne,325,Dropper,Unisex
+P140,Vitamin C Gel,Minimalist,Gel,Vitamin C,1364,4.3,Delhi,32,61,Moderate,Combination,Aging,268,Pump,Unisex
+P141,Green Tea Gel,The Face Shop,Gel,Green Tea,478,3.9,Delhi,25,31,Dry,Oily,Acne,479,Jar,Unisex
+P142,Tea Tree Oil Moisturizer,Dot & Key,Moisturizer,Tea Tree Oil,1419,4.0,Ahmedabad,28,75,Humid,Combination,Sensitivity,190,Tube,Women
+P143,Green Tea Cleanser,Cetaphil,Cleanser,Green Tea,1286,4.6,Pune,26,58,Moderate,Dry,Sun Damage,422,Jar,Unisex
+P144,Zinc Oxide Gel,Dot & Key,Gel,Zinc Oxide,715,4.3,Ahmedabad,35,67,Moderate,All,Dryness,304,Pump,Women
+P145,Green Tea Moisturizer,Wow Skin Science,Moisturizer,Green Tea,479,4.3,Pune,29,62,Moderate,Normal,Sun Damage,174,Dropper,All
+P146,Niacinamide Cleanser,The Face Shop,Cleanser,Niacinamide,1079,4.4,Kochi,30,47,Moderate,All,Sun Damage,367,Dropper,All
+P147,Glycerin Face Wash,Neutrogena,Face Wash,Glycerin,1486,4.1,Jaipur,35,60,Moderate,Sensitive,Sensitivity,415,Pump,Unisex
+P148,Hyaluronic Acid Cleanser,Ponds,Cleanser,Hyaluronic Acid,776,3.9,Bengaluru,32,79,Humid,Sensitive,Sensitivity,329,Dropper,Women
+P149,AHA/BHA Cleanser,Dot & Key,Cleanser,AHA/BHA,1246,3.8,Bengaluru,26,76,Humid,Normal,Pigmentation,150,Tube,All
+P150,Vitamin C Cleanser,Body Shop,Cleanser,Vitamin C,1001,3.8,Pune,35,66,Moderate,Oily,Sensitivity,245,Bottle,Women
+P151,Green Tea Cream,Ponds,Cream,Green Tea,1028,4.1,Hyderabad,31,34,Dry,Dry,Sun Damage,428,Pump,Men
+P152,Vitamin E Cleanser,The Ordinary,Cleanser,Vitamin E,1259,4.1,Kolkata,33,55,Moderate,All,Aging,215,Tube,Men
+P153,Niacinamide Cleanser,The Face Shop,Cleanser,Niacinamide,472,4.0,Jaipur,28,55,Moderate,Dry,Pigmentation,361,Jar,Unisex
+P154,Green Tea Toner,Ponds,Toner,Green Tea,553,4.2,Bengaluru,29,50,Moderate,All,Sensitivity,311,Dropper,Men
+P155,Shea Butter Gel,Simple,Gel,Shea Butter,252,3.8,Chennai,32,30,Dry,Combination,Dryness,114,Pump,Women
+P156,Niacinamide Moisturizer,Minimalist,Moisturizer,Niacinamide,1190,3.5,Ahmedabad,34,61,Moderate,All,Sensitivity,288,Bottle,Men
+P157,Shea Butter Toner,Cosrx,Toner,Shea Butter,810,4.5,Hyderabad,25,75,Humid,Normal,Dryness,188,Pump,Men
+P158,Tea Tree Oil Face Wash,Wow Skin Science,Face Wash,Tea Tree Oil,287,3.8,Pune,27,58,Moderate,Sensitive,Acne,292,Dropper,Unisex
+P159,Green Tea Toner,Neutrogena,Toner,Green Tea,976,3.6,Hyderabad,31,36,Dry,Dry,Sensitivity,434,Bottle,Women
+P160,Tea Tree Oil Cleanser,Derma Co,Cleanser,Tea Tree Oil,455,4.4,Chennai,31,68,Moderate,Oily,Dryness,192,Dropper,Women
+P161,Shea Butter Face Wash,Body Shop,Face Wash,Shea Butter,1421,4.7,Mumbai,33,34,Dry,Sensitive,Aging,438,Jar,Men
+P162,Glycerin Toner,Cetaphil,Toner,Glycerin,1373,3.6,Jaipur,34,55,Moderate,Oily,Aging,179,Pump,Men
+P163,Vitamin E Cream,The Face Shop,Cream,Vitamin E,751,4.7,Ahmedabad,28,59,Moderate,Normal,Pigmentation,141,Pump,Men
+P164,Vitamin E Night Cream,Plum,Night Cream,Vitamin E,958,4.1,Delhi,30,65,Moderate,Combination,Pigmentation,173,Pump,Men
+P165,Niacinamide Toner,Body Shop,Toner,Niacinamide,1303,4.8,Bengaluru,34,72,Humid,Oily,Pigmentation,297,Pump,Women
+P166,Shea Butter Serum,The Ordinary,Serum,Shea Butter,330,4.7,Hyderabad,26,68,Moderate,Normal,Aging,453,Pump,Men
+P167,Centella Asiatica Cream,Simple,Cream,Centella Asiatica,685,3.6,Delhi,35,76,Humid,All,Sun Damage,450,Pump,Unisex
+P168,AHA/BHA Serum,Minimalist,Serum,AHA/BHA,973,3.7,Jaipur,25,44,Moderate,Dry,Dryness,450,Bottle,All
+P169,Green Tea Cream,L’Oréal,Cream,Green Tea,1471,3.5,Hyderabad,25,78,Humid,Oily,Pigmentation,163,Bottle,Men
+P170,Shea Butter Gel,The Ordinary,Gel,Shea Butter,1184,4.4,Pune,28,66,Moderate,Dry,Pigmentation,112,Bottle,Men
+P171,Vitamin C Gel,L’Oréal,Gel,Vitamin C,1282,4.0,Ahmedabad,29,55,Moderate,All,Acne,374,Jar,Men
+P172,Green Tea Cream,Plum,Cream,Green Tea,812,4.4,Bengaluru,32,85,Humid,Normal,Pigmentation,463,Tube,All
+P173,Shea Butter Face Wash,Derma Co,Face Wash,Shea Butter,1194,4.3,Mumbai,30,82,Humid,Dry,Sun Damage,262,Jar,Women
+P174,Centella Asiatica Cleanser,The Ordinary,Cleanser,Centella Asiatica,1388,4.5,Delhi,26,35,Dry,Combination,Dryness,365,Tube,Unisex
+P175,Vitamin E Cream,Cetaphil,Cream,Vitamin E,253,4.2,Kolkata,33,50,Moderate,All,Dryness,466,Tube,Women
+P176,Glycerin Cream,Plum,Cream,Glycerin,446,3.6,Delhi,34,71,Humid,Oily,Aging,218,Tube,Unisex
+P177,Vitamin E Gel,Plum,Gel,Vitamin E,696,3.6,Jaipur,27,69,Moderate,Sensitive,Sensitivity,323,Dropper,Unisex
+P178,Shea Butter Gel,Minimalist,Gel,Shea Butter,490,4.7,Jaipur,30,71,Humid,Normal,Dryness,417,Jar,Unisex
+P179,Retinol Lotion,Ponds,Lotion,Retinol,318,4.0,Bengaluru,27,83,Humid,Oily,Sensitivity,198,Dropper,Women
+P180,Shea Butter Moisturizer,Derma Co,Moisturizer,Shea Butter,1075,3.6,Chennai,32,46,Moderate,Normal,Pigmentation,312,Bottle,Women
+P181,Centella Asiatica Face Wash,Wow Skin Science,Face Wash,Centella Asiatica,796,4.4,Bengaluru,35,84,Humid,All,Pigmentation,380,Tube,All
+P182,Shea Butter Lotion,The Ordinary,Lotion,Shea Butter,309,4.4,Hyderabad,33,60,Moderate,Sensitive,Acne,243,Bottle,Unisex
+P183,Centella Asiatica Serum,Plum,Serum,Centella Asiatica,317,4.2,Pune,28,50,Moderate,Normal,Acne,132,Jar,Men
+P184,AHA/BHA Sunscreen,Cosrx,Sunscreen,AHA/BHA,848,3.7,Jaipur,28,33,Dry,Normal,Aging,326,Bottle,Unisex
+P185,Zinc Oxide Cleanser,Plum,Cleanser,Zinc Oxide,1259,4.8,Jaipur,34,66,Moderate,All,Acne,309,Dropper,All
+P186,Shea Butter Moisturizer,Wow Skin Science,Moisturizer,Shea Butter,434,4.3,Mumbai,28,55,Moderate,Combination,Acne,154,Jar,Women
+P187,Shea Butter Moisturizer,Ponds,Moisturizer,Shea Butter,613,3.8,Kochi,32,52,Moderate,Oily,Sensitivity,167,Tube,Men
+P188,Aloe Vera Serum,Simple,Serum,Aloe Vera,566,3.8,Hyderabad,26,49,Moderate,Sensitive,Sensitivity,498,Jar,Men
+P189,Shea Butter Toner,L’Oréal,Toner,Shea Butter,1460,4.8,Bengaluru,33,77,Humid,All,Aging,189,Dropper,Men
+P190,Vitamin C Gel,The Face Shop,Gel,Vitamin C,1338,4.5,Hyderabad,26,61,Moderate,Normal,Acne,376,Dropper,Unisex
+P191,Tea Tree Oil Cream,Minimalist,Cream,Tea Tree Oil,801,3.8,Kolkata,30,36,Dry,Normal,Acne,465,Pump,Men
+P192,Niacinamide Moisturizer,L’Oréal,Moisturizer,Niacinamide,1404,3.6,Jaipur,30,35,Dry,Combination,Dryness,125,Jar,Men
+P193,Green Tea Toner,Wow Skin Science,Toner,Green Tea,711,4.3,Delhi,33,74,Humid,All,Sun Damage,332,Pump,Unisex
+P194,Vitamin E Lotion,Body Shop,Lotion,Vitamin E,549,3.5,Bengaluru,26,85,Humid,Oily,Acne,474,Pump,All
+P195,AHA/BHA Toner,Wow Skin Science,Toner,AHA/BHA,832,4.1,Chennai,31,47,Moderate,Normal,Sun Damage,418,Dropper,Unisex
+P196,Aloe Vera Sunscreen,Ponds,Sunscreen,Aloe Vera,1119,3.9,Hyderabad,27,75,Humid,All,Pigmentation,257,Bottle,Women
+P197,AHA/BHA Serum,Simple,Serum,AHA/BHA,611,4.1,Kochi,31,50,Moderate,Dry,Sun Damage,475,Dropper,Men
+P198,Niacinamide Moisturizer,Dot & Key,Moisturizer,Niacinamide,1060,3.8,Kolkata,25,41,Moderate,All,Sun Damage,328,Dropper,Men
+P199,AHA/BHA Toner,Derma Co,Toner,AHA/BHA,1294,4.0,Ahmedabad,30,51,Moderate,Normal,Acne,483,Pump,Men
+P200,Zinc Oxide Face Wash,Simple,Face Wash,Zinc Oxide,1073,3.5,Pune,32,72,Humid,All,Pigmentation,119,Jar,Women
